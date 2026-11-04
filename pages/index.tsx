@@ -3,7 +3,7 @@ import Head from 'next/head'
 export async function getServerSideProps() {
   return {
     redirect: {
-      destination: 'https://www.romancatholichs.com',
+      destination: 'https://linktr.ee/romancatholicalumni',
       permanent: false,
     },
   }
